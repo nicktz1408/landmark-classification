@@ -1,4 +1,4 @@
-# landmarks-classification
+# Landmarks Classification
 This is a deep learning project related to landmarks classification.
 It consists of 2 parts:
 * First, I created a Convolutional Neural Network to perform the task, trained it and tested it.
